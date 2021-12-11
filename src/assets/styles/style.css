@@ -11,7 +11,10 @@ input,
 textarea {
     font-family: "Poppins", sans-serif;
 }
-
+.invert {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
 .container {
     position: relative;
     width: 100%;
@@ -218,7 +221,7 @@ textarea.input {
     padding: 0 0.4rem;
     pointer-events: none;
     z-index: 500;
-    color: white;
+    color: whitesmoke;
     background-color: #2E2E2e;
 }
 

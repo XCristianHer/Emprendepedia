@@ -16,18 +16,3 @@ inputs.forEach((input) => {
     input.addEventListener("focus", focusFunc);
     input.addEventListener("blur", blurFunc);
 });
-/*
-function showContent() {
-    element = document.getElementById("oculto");
-    check = document.getElementById("compartir");
-    if (compartir.checked) {
-        element.style.display='block';
-    }
-    else {
-        element.style.display='none';
-    }
-}
-
-function enviar_formulario(){
-    document.contactanos.submit()
-} */

@@ -1,7 +1,7 @@
 <template>
   <body>
     <div class="topnav">
-      <a class="active" href="#"><img src="./assets/img/home-solid.svg" alt="Home"/></a>
+      <a class="active" href="#"><img src="./assets/img/home-solid.svg" alt="Home" class="invert"/></a>
       <div class="topnav-left">
         <a href="#step">Paso a Paso</a>
         <a href="#calculate">Calcula tu Rentabilidad</a>
@@ -11,12 +11,12 @@
 
       <div class="topnav-right">
         <a class="active" @click="showUser()"
-          ><img src="./assets/img/user-solid.svg" atl="user"
-        /></a>
+          ><img src="./assets/img/user-solid.svg" atl="user"  class="invert"/>
+        </a>
         <div class="topnav-responsive">
           <a class="active" @click="showMenu()"
-            ><img src="./assets/img/bars-solid.svg" atl="menu"
-          /></a>
+            ><img src="./assets/img/bars-solid.svg" atl="menu"  class="invert"/>
+          </a>
         </div>
       </div>
     </div>
