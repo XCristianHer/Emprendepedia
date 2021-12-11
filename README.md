@@ -1,4 +1,4 @@
-# Emprendipedia
+# Emprendepedia
 
 ## Project setup
 ```
