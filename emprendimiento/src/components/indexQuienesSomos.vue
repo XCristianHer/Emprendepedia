@@ -48,7 +48,7 @@
                                 <a target="_blank" href="https://www.linkedin.com/">
                                     <img src="../assets/img/031-linkedin.png" class="icon2">
                                 </a>
-                                <a target="_blank" href="https://github.com/Grupo-5-N-9-Grupo-UTP">
+                                <a target="_blank" href="https://github.com/XCristianHer/Emprendepedia">
                                     <img src="../assets/img/039-github.png" class="icon2">
                                 </a>
                             </div>
