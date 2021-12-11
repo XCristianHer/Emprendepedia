@@ -8,13 +8,14 @@
         <p class="text-invertido">
           Somos líderes dando acompañamiento a las
           personas que tienen un emprendimiento y quieren tener una
-          visión mas clara sobre su ideas de negocio. <br>
+          visión mas clara sobre su ideas de negocio. <br><br />
           <br> Nuestro equipo de trabajo está conformado por:
-          <br />
-          <br />Francy Alvarado - Ingeniera <br />Tania Bonilla - Economista
-          <br />Brayan Martínez - Ilustrador <br />Nicolás Bravo - Adm. de Empresas <br />Edisson Alejo - Ing.
-          Telecomunicaciones.
-        </p>
+          <br /><br /><br /><br /><br /><br /><br />
+          <br /><br />Edisson Rafael Alejo Hernandez
+          <br /><br />Eduar Leonel Chaves Chaves
+          <br /><br />Nelson Hernando Guarín Benítez
+          <br /><br />Cristian Julián Hernández Jiménez
+          </p>
       </form>
 
       <div class="contact-form-invertida">
@@ -26,7 +27,7 @@
           <p class="text">
             Contamos con el apoyo del ministerio de las tic.<br />
             También, estamos asesorados por la Universidad Tecnológica de Pereria
-            a través del ingeniero Victor Vargas
+            a través del ingeniero Victor Var
           </p>
           <div class="info">
             <img src="../assets/img/teamwork.jpg" class="image" />
@@ -47,7 +48,7 @@
                                 <a target="_blank" href="https://www.linkedin.com/">
                                     <img src="../assets/img/031-linkedin.png" class="icon2">
                                 </a>
-                                <a target="_blank" href="https://github.com/Grupo-5-N-9-Grupo-UTP">
+                                <a target="_blank" href="https://github.com/XCristianHer/Emprendepedia">
                                     <img src="../assets/img/039-github.png" class="icon2">
                                 </a>
                             </div>
@@ -58,8 +59,8 @@
         </div>
 </template>
 
-<script
-    src="https://kit.fontawesome.com/64d58efce2.js"
+<script 
+    src="https://kit.fontawesome.com/64d58efce2.js" 
     crossorigin="anonymous">
 </script>
 
