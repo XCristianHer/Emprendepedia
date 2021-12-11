@@ -38,7 +38,7 @@
                         <a target="_blank" href="https://www.linkedin.com/">
                             <img src="../assets/img/031-linkedin.png" class="icon2">
                         </a>
-                        <a target="_blank" href="https://github.com/Grupo-5-N-9-Grupo-UTP">
+                        <a target="_blank" href="https://github.com/XCristianHer/Emprendepedia">
                             <img src="../assets/img/039-github.png" class="icon2">
                         </a>
                     </div>
@@ -53,17 +53,14 @@
                     <h3 class="title">Contactenos</h3>
                     <div class="input-container">
                         <input type="text" name="name" class="input" required/>
-                        <label for="">Nombre</label>
                         <span>Nombre</span>
                     </div>
                     <div class="input-container">
                         <input type="text" name="apellido" class="input" required/>
-                        <label for="">Apellido</label>
                         <span>Apellido</span>
                     </div>
                     <div class="input-container">
                         <input type="email" name="email" class="input" required/>
-                        <label for="">Correo</label>
                         <span>Correo</span>
                     </div>
                     <!--
@@ -74,12 +71,10 @@
                     </div> -->
                     <div class="input-container">
                         <input type="tel" name="phone" class="input" />
-                        <label for="">Télefono</label>
                         <span>Télefono</span>
                     </div>
                     <div class="input-container textarea">
                         <textarea name="message" class="input" required></textarea>
-                        <label for="">Mensaje</label>
                         <span>Mensaje</span>
                     </div>
                     <input type="submit" value="Send" class="btn" />

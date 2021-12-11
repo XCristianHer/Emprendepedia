@@ -7,28 +7,23 @@
                     <h3 class="title">Calcula tu Rentabilidad</h3>
                     <div class="input-container">
                         <input type="text" name="name-emprendimiento" class="input" required/>
-                        <label for=""></label>
-                        <span style="color: beige; background-color: #2E2E2e;">Nombre Emprendimiento</span>
+                        <span>Nombre Emprendimiento</span>
                     </div>
                     <div class="input-container">
                         <input type="text" name="tipo-negocio" class="input" required/>
-                        <label for=""></label>
-                        <span style="color: beige; background-color: #2E2E2e;">Tipo de Negocio</span>
+                        <span>Tipo de Negocio</span>
                     </div>
                     <div class="input-container">
                         <input type="text" name="ingresos" class="input" required/>
-                        <label for=""></label>
-                        <span style="color: beige; background-color: #2E2E2e;">Ingresos</span>
+                        <span>Ingresos</span>
                     </div>
                     <div class="input-container">
                         <input type="text" name="costo" class="input" required/>
-                        <label for=""></label>
-                        <span style="color: beige; background-color: #2E2E2e;">Costo de Bienes Vendidos</span>
+                        <span>Costo de Bienes Vendidos</span>
                     </div>
                     <div class="input-container">
                         <input type="text" name="gastos" class="input" required/>
-                        <label for=""></label>
-                        <span style="color: white; background-color: #2E2E2e;">Gastos Operativos</span>
+                        <span>Gastos Operativos</span>
                     </div>
                     <input type="button" value="Calcular" class="btn" />
                 </form>
@@ -72,7 +67,7 @@
                                 <a target="_blank" href="https://www.linkedin.com/">
                                     <img src="../assets/img/031-linkedin.png" class="icon2">
                                 </a>
-                                <a target="_blank" href="https://github.com/">
+                                <a target="_blank" href="https://github.com/XCristianHer/Emprendepedia">
                                     <img src="../assets/img/039-github.png" class="icon2">
                                 </a>
                             </div>
