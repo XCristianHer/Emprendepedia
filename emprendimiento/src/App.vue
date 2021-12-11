@@ -56,41 +56,8 @@
 
       <section id="team" class="section">
         <index-quienes-somos />
-        <div class="pasos">
-          <div class="paso">
-            <h2>Nuestro Equipo</h2>
-            <h3 class="team-info__title">Nicolas Bravo</h3>
-            <p class="team-info__text">Administrador de Empresas</p>
-          </div>
-
-          <div class="paso">
-            <h3 class="team-info__title">Tania Bonilla</h3>
-            <p class="team-info__text">Economista</p>
-          </div>
-
-          <div class="paso">
-            <h3 class="team-info__title">Javier Martínez</h3>
-            <p class="team-info__text">Ilustrador</p>
-          </div>
-
-          <div class="paso">
-            <h3 class="team-info__title">Francy Alvarado</h3>
-            <p class="team-info__text">Ingeniera</p>
-          </div>
-
-          <div class="paso">
-            <h3 class="team-info__title">Edisson Alejo</h3>
-            <p class="team-info__text">Telecomunicaciones</p>
-          </div>
-        </div>
       </section>
     </div>
-    <!-- <footer class="footer">
-        <h2>MisionTic 2022</h2>
-        <p>UTP</p>
-        <p>Proyecto Ciclo 3</p>
-        <p>Grupo 05 - 09</p>
-    </footer> -->
   </body>
 </template>
 

@@ -63,12 +63,6 @@
                         <input type="email" name="email" class="input" required/>
                         <span>Correo</span>
                     </div>
-                    <!--
-                    <div class="input-container">
-                        <input type="checkbox" name="compartir" id="compartir" value="1" onchange="javascript:showContent()" class="input" />
-                        <label for="">¿Desea que nos comuniquemos vía telefónica?</label>
-                        <span>¿Desea que nos comuniquemos vía telefónica?</span>
-                    </div> -->
                     <div class="input-container">
                         <input type="tel" name="phone" class="input" />
                         <span>Télefono</span>
