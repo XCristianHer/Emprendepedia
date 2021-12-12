@@ -25,9 +25,8 @@
         <div class="contact-info">
           <h3 class="title">¿Quienes nos apoyan?</h3>
           <p class="text">
-            Contamos con el apoyo del ministerio de las tic.<br />
-            También, estamos asesorados por la Universidad Tecnológica de Pereria
-            a través del ingeniero Victor Var
+            Contamos con el apoyo del la Universidad Politecnico Grancolombiano.<br />
+            También, estamos asesorados por la mentoria de la docente Diana Angelica Cruz
           </p>
           <div class="info">
             <img src="../assets/img/teamwork.jpg" class="image" />
