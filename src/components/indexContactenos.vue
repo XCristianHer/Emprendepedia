@@ -5,8 +5,10 @@
             <div class="contact-info">
                 <h3 class="title">¡No te quedes con la duda!</h3>
                 <p class="text">
+                 <br><br><br>
                     Recuerda que puedes contactarnos usando los siguientes medios de comunicación o bien llenando el
                     formulario.
+                    <br><br><br><br>
                 </p>
                 <div class="info">
                     <div class="informacion">
